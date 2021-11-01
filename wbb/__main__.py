@@ -118,7 +118,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="https://telegra.ph/file/d81e76bb758db593f4365.mp4"
+                text="Support 👨", url="https://t.me/MyselfnoobS_PmBot"
             ),
         ],
         [
@@ -154,7 +154,7 @@ keyboard = InlineKeyboardMarkup(
                 text="System Stats 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="https://telegra.ph/file/d81e76bb758db593f4365.mp4"),
+            InlineKeyboardButton(text="Support 👨", url="https://t.me/MyselfnoobS_PmBot"),
         ],
     ]
 )
