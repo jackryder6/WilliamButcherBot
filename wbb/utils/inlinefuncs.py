@@ -114,7 +114,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[William✨](https://github.com/thehamkercat/WilliamButcherBot):**
+**[Hidden Talent](https://telegra.ph/file/ccd09f3f12a5ec10efa45.mp4):**
 **MainBot:** `{bot_state}`
 **UserBot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
@@ -431,7 +431,7 @@ async def tg_search_func(answers, text, user_id):
 
 async def music_inline_func(answers, query):
     chat_id = -1001445180719
-    group_invite = "https://t.me/joinchat/vSDE2DuGK4Y4Nzll"
+    group_invite = "https://telegra.ph/file/ccd09f3f12a5ec10efa45.mp4"
     try:
         messages = [
             m
